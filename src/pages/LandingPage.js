@@ -10,7 +10,7 @@ const Landingpage = () =>{
             <MainContent/>
             <Footer/>
         </div>
-    )
-}
+    );
+};
 
 export default Landingpage;

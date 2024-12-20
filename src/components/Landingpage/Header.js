@@ -2,15 +2,15 @@ import React from "react";
 
 const Header = () => {
     return(
-        <Header>
+        <header>
             <h1>Mi landingPage</h1>
             <nav>
                 <ul>
-                    <li><a href="#Servicio">Servicio</a></li>
-                    <li><a href="#Contacto">#Contacto</a></li>
+                    <li><a href="/servicio">Servicio</a></li>
+                    <li><a href="/contacto">Contacto</a></li>
                 </ul>
             </nav>
-        </Header>
+        </header>
     );
 };
 
